@@ -22,10 +22,6 @@ Previously at **Autodesk**, where I founded the Cloud Standards Engineering Exce
 
 Servant leadership and continuous improvement - creating environments where engineers can do their best work. I care about removing friction, building clarity, and giving teams the space to experiment and grow.
 
-## Tech
-
-`TypeScript` `React` `Vue` `Node.js` `Python` `AWS` `GCP` `Terraform` `Docker` `Postgres`
-
 ## Connect
 
 [mitchmikusek.com](https://mitchmikusek.com) · [LinkedIn](https://linkedin.com/in/mitchmikusek)
