@@ -1,4 +1,4 @@
-# Hi, I'm Mitch
+# Hi There, I'm Mitch
 
 Senior Engineering Leader, Agilist, and Full-Stack Engineer with 10+ years building teams and software at scale.
 
