@@ -18,9 +18,13 @@ Previously at **Autodesk**, where I founded the Cloud Standards Engineering Exce
 | [Wicked Wristers](https://db.wickedwristers.io/skaters) | Player database and streaming frontend for simulated hockey games | 2021 |
 | Asia Pacific Professional Managers App | Mobile app for APMA showcasing content via Wordpress CMS with live chat and native sharing | 2016 |
 
-## How I Work
+## Philosophy
 
-Servant leadership and continuous improvement - creating environments where engineers can do their best work. I care about removing friction, building clarity, and giving teams the space to experiment and grow.
+Lead with clarity, act with empathy, and build things that matter. I believe the best teams are built on trust, transparency, and a bias toward action. My job is to remove obstacles and create the conditions where people can do their best work.
+
+## Outside of Work
+
+Gaming, homelabbing, arcades, and foosball.
 
 ## Connect
 
