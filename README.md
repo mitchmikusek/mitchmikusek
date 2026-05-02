@@ -6,12 +6,15 @@ Currently at **Salesforce**, leading 17 engineers across the AppExchange - searc
 
 Previously at **Autodesk**, where I founded the Cloud Standards Engineering Excellence Guild, establishing practices across 300+ cloud services and cutting incidents per billion API calls by **95.6%** in two years.
 
-## What I'm Building
+## Projects
 
-| Project | Description |
-|---------|-------------|
-| [Steam Controller Flash Tool](https://steamcontroller.tools) | Flash BLE firmware onto the original Steam Controller from your browser using WebHID. Zero installs. |
-| [DangPacks.com](https://dangpacks.com) | Digital card trading platform for streamer Dan Gheesling - 5k users, 20k+ cards |
+| Project | Description | Year |
+|---------|-------------|------|
+| [Steam Controller Flash Tool](https://steamcontroller.tools) | Flash BLE firmware onto the original Steam Controller from your browser using WebHID. Zero installs. [[code]](https://github.com/mitchmikusek/steam_controller_tools) | 2025 |
+| [DangPacks.com](https://dangpacks.com) | Digital card trading platform for streamer Dan Gheesling - 5k users, 20k+ cards | 2021 |
+| [Arsicault Bakery](https://arsicault.com) | Website for SF bakery, establishing web presence and driving revenue through e-gift card sales. [[code]](https://github.com/mitchmikusek/arsicault-web) | 2020 |
+| Wicked Wristers | Player database and streaming frontend for simulated hockey games | 2021 |
+| Asia Pacific Professional Managers App | Mobile app for APMA showcasing content via Wordpress CMS with live chat and native sharing | 2016 |
 
 ## How I Work
 
