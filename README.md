@@ -12,7 +12,7 @@ Previously at **Autodesk**, where I founded the Cloud Standards Engineering Exce
 |---------|-------------|------|
 | [Steam Controller Flash Tool](https://steamcontroller.tools) | Flash BLE firmware onto the original Steam Controller from your browser using WebHID. Zero installs. [[code]](https://github.com/mitchmikusek/steam_controller_tools) | 2025 |
 | [DangPacks.com](https://dangpacks.com) | Digital card trading platform for streamer Dan Gheesling - 5k users, 20k+ cards | 2021 |
-| [Arsicault Bakery](https://arsicault.com) | Website for SF bakery, establishing web presence and driving revenue through e-gift card sales. [[code]](https://github.com/mitchmikusek/arsicault-web) | 2020 |
+| [Arsicault Bakery](https://arsicault.com) | Website for SF bakery, establishing web presence and driving revenue through e-gift card sales | 2020 |
 | Wicked Wristers | Player database and streaming frontend for simulated hockey games | 2021 |
 | Asia Pacific Professional Managers App | Mobile app for APMA showcasing content via Wordpress CMS with live chat and native sharing | 2016 |
 
