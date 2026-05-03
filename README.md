@@ -1,6 +1,6 @@
 # Hi, I'm Mitch
 
-Engineering Leader, Builder, Tinkerer. 12+ years building teams and software at scale.
+Engineering Leader, Builder, Coach. 12+ years building teams and software at scale.
 
 I love solving hard problems, shipping things that matter, and helping engineers do their best work. Outside of work I build side projects, tinker with hardware, and try to make things people enjoy using.
 
