@@ -1,10 +1,10 @@
 # Hi, I'm Mitch
 
-Engineering Leader with 12+ years building teams and software at scale.
+Engineering Leader, Builder, Tinkerer. 12+ years building teams and software at scale.
 
-Currently at **Salesforce**, leading 17 engineers across the AppExchange - search, discovery, infrastructure, and DevOps. Recent work includes launching **AgentExchange** (Salesforce's AI-powered marketplace), a discovery redesign that lifted engagement **+107% impressions / +66% clicks**, and infrastructure modernization delivering **8x faster page loads**.
+I love solving hard problems, shipping things that matter, and helping engineers do their best work. Outside of work I build side projects, tinker with hardware, and try to make things people enjoy using.
 
-Previously at **Autodesk**, where I founded the Cloud Standards Engineering Excellence Guild, establishing practices across 300+ cloud services and cutting incidents per billion API calls by **95.6%** in two years.
+By day I lead engineering at **Salesforce**, where my team launched **AgentExchange**, redesigned marketplace discovery (+107% impressions, +66% clicks), and modernized infrastructure for 8x faster page loads. Before that I built the Cloud Standards Engineering Excellence Guild at **Autodesk**, cutting incidents per billion API calls by 95.6%.
 
 ## Projects
 
